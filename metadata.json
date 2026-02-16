@@ -1,0 +1,8 @@
+{
+  "name": "حصن المسلم الشامل - Al-Hisn",
+  "description": "تطبيق متكامل للأذكار اليومية، التحصين، والأدعية المستجابة مع نظام تتبع متقدم وتصميم روحاني عصري.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
